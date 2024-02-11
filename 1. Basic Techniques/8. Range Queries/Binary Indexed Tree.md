@@ -1,5 +1,6 @@
 ## Binary Indexed Tree(FenWick Tree)
 ```cpp
+//參考自Jiangly
 template <typename T>
 struct BitT {
     int n;
