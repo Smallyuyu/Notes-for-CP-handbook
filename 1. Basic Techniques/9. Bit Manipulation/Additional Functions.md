@@ -12,4 +12,18 @@ cout << __builtin_ctz(x) << "\n"; // 4
 cout << __builtin_popcount(x) << "\n"; // 5
 cout << __builtin_parity(x) << "\n"; // 1
 ```
-
+## Hamming Distances
+```cpp
+//計算兩個Bit不同處的個數
+int hamming(string a, string b) {
+  int d = 0;
+  for (int i = 0; i < k; i++) {
+    if (a[i] != b[i]) d++;
+  }
+  return d;
+}
+//快上面的三十倍
+int hamming(int a, int b) {
+  return __builtin_popcount(a^b);
+}
+```
