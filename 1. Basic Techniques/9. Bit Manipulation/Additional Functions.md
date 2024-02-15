@@ -27,3 +27,22 @@ int hamming(int a, int b) {
   return __builtin_popcount(a^b);
 }
 ```
+```cpp
+int n,k;
+cin>>n>>k;
+vector<string> s(n);
+vector<int> arr(n,0);
+for(int i = 0 ; i < n ; i++){
+    cin>>s[i];
+}
+int ans = INT_MAX;
+for(int i = 0 ; i < n ; i++){
+    arr[i] = stoi(s[i], nullptr, 2);
+}
+for(int i = 0 ; i < n ; i++){
+    for(int j = i + 1 ; j < n ; j++){
+        ans = min(ans,__builtin_popcount(arr[i] ^ arr[j]));
+    }
+}
+cout<<ans<<'\n';
+```
