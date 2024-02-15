@@ -1,4 +1,4 @@
-## Bit Operation
+## Bit DP
 ```cpp
 //K Products
 //N Days
