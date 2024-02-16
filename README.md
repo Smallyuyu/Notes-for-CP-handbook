@@ -33,7 +33,8 @@
     + [Bit Application](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/1.%20Basic%20Techniques/9.%20Bit%20Manipulation/Bit%20Application.md)
     + [Bit DP](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/1.%20Basic%20Techniques/9.%20Bit%20Manipulation/Bit%20DP.md)
     + [Bit Operation](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/1.%20Basic%20Techniques/9.%20Bit%20Manipulation/Bit%20Operation.md)
-    + [Elevator Rides](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/1.%20Basic%20Techniques/9.%20Bit%20Manipulation/Elevator%20Rides.md)
+    + [Elevator Rides](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/1.%20Basic%20Techniques/9.%20Bit%20Manipulation/Elevator%20Rides.md)  
+
 **Graph Algorithms**
 ## To-Do
 
