@@ -1,4 +1,4 @@
-## Bellman–Ford(可算負環) 
+## Bellman–Ford (可算負環) 
 ```cpp
 //0到各點的最短路徑
 priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
