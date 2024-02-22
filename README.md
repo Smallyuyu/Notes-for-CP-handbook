@@ -58,6 +58,7 @@
 6. Directed Graph
    + [Definition](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/2.%20Graph%20Algorithms/6.%20Directed%20Graph/Definition.md)
    + [Topological Sorting](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/2.%20Graph%20Algorithms/6.%20Directed%20Graph/Topological%20Sorting.md)
+   + [Floyd’s Algorithm](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/2.%20Graph%20Algorithms/6.%20Directed%20Graph/Floyd%E2%80%99s%20Algorithm.md)
 ## To-Do
 
 P.105 - Counting subsets
