@@ -39,3 +39,6 @@
 ## To-Do
 
 P.105 - Counting subsets
+P.151 - Dynamic programming
+p.153 - Representing problems as graphs
+P.154 - Successor paths
