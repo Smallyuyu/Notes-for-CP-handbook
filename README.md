@@ -36,6 +36,28 @@
     + [Elevator Rides](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/1.%20Basic%20Techniques/9.%20Bit%20Manipulation/Elevator%20Rides.md)  
 
 **Graph Algorithms**
+1. Basic of graphs
+   + [Graph Representation.md](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/2.%20Graph%20Algorithms/1.%20Basic%20of%20graphs/Graph%20Representation.md)
+   + [Graph Terminology](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/2.%20Graph%20Algorithms/1.%20Basic%20of%20graphs/Graph%20Terminology.md)
+2. Graph Traversal
+   + [BFS](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/2.%20Graph%20Algorithms/2.%20Graph%20Traversal/BFS.md)
+   + [DFS](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/2.%20Graph%20Algorithms/2.%20Graph%20Traversal/BFS.md)
+   + [Find Cycle](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/2.%20Graph%20Algorithms/2.%20Graph%20Traversal/Find%20Cycle.md)
+   + [Connectivity Check](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/2.%20Graph%20Algorithms/2.%20Graph%20Traversal/Connectivity%20Check.md)
+3. Shortest Path
+   + [Bellman–Ford Algorithm](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/2.%20Graph%20Algorithms/3.%20Shortest%20Path/Bellman%E2%80%93Ford%20Algorithm.md)
+   + [Dijkstra’s Algorithm](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/2.%20Graph%20Algorithms/3.%20Shortest%20Path/Bellman%E2%80%93Ford%20Algorithm.md)
+   + [Floyd–Warshall Algorithm](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/2.%20Graph%20Algorithms/3.%20Shortest%20Path/Floyd%E2%80%93Warshall.md)
+4. Tree Algorithm
+   + [Diameter](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/2.%20Graph%20Algorithms/4.%20Tree%20Algorithm/Diameter.md)
+   + [Number of Nodes in Subtree](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/2.%20Graph%20Algorithms/4.%20Tree%20Algorithm/Number%20of%20Nodes%20in%20Subtree.md)
+   + [Tree traversal](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/2.%20Graph%20Algorithms/4.%20Tree%20Algorithm/Tree%20Traversal.md)
+5. Spanning Tree
+   + [Definition](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/2.%20Graph%20Algorithms/5.%20Spanning%20Tree/Definition.md)
+   + [Kruskal’s Algorithm](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/2.%20Graph%20Algorithms/5.%20Spanning%20Tree/Kruskal%E2%80%99s%20Algorithm.md)
+6. Directed Graph
+   + [Definition](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/2.%20Graph%20Algorithms/6.%20Directed%20Graph/Definition.md)
+   + [Topological Sorting](https://github.com/Smallyuyu/Notes-for-CP-handbook/blob/main/2.%20Graph%20Algorithms/6.%20Directed%20Graph/Topological%20Sorting.md)
 ## To-Do
 
 P.105 - Counting subsets
